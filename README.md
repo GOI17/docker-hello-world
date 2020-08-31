@@ -1,2 +1,2 @@
 # docker-hello-world
-This Repository is only practice, applying CI/CD with GithubActions and Docker
+This Repository is only for practice, applying CI/CD with GithubActions and Docker
