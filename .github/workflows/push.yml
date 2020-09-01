@@ -12,7 +12,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: docker-hello-world
+          repository: gilbertodev17/docker-hello-world
           tag_with_sha: true
           tag_with_ref: true
           tags: ${{ github.sha }}
